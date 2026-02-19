@@ -7,5 +7,11 @@ public class Main {
         System.out.println("20");
         System.out.println("2 Perros Mandarina y Zafir");
 
+
+        System.out.println("____________________________________");
+
+        System.out.println("tengo 4 hermanos");
+        System.out.println("Carlos Duarte");
+        System.out.println("Diana Aguirre");
         }
     }
